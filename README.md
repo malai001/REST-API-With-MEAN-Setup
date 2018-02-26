@@ -14,7 +14,8 @@ Requirements:
 3. EXPRESS JS
 
 Installation Guide:
-1. Install Mongo db
-2. Install Node Npm
-3. Open git bash with the installed path
-4. Start the Server by node start server command in git bash
+1. Install Mongo db;
+2. Install Node Npm;
+3. Extract the node_modules.zip;
+4. Open git bash with the installed path;
+5. Start the Server by node start server command in git bash;

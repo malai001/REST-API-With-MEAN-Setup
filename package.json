@@ -1,0 +1,32 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Rest Api for Android app",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  },
+  "scripts": {
+    "test": "NA",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malai001/Rest-API-using-mongo-and-node.git"
+  },
+  "keywords": [
+    "REST",
+    "API"
+  ],
+  "author": "Annamalai AR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malai001/Rest-API-using-mongo-and-node/issues"
+  },
+  "homepage": "https://github.com/malai001/Rest-API-using-mongo-and-node#readme"
+}
